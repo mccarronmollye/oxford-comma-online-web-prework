@@ -6,4 +6,3 @@ elsif 2 < array.length
 end
   array.join(", ")
 end
-
